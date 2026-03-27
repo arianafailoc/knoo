@@ -1,0 +1,6 @@
+projectKey=proyecto-react
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=proyecto-react
+ceTaskId=c9d2f059-f1bd-462d-a91e-fca297213184
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c9d2f059-f1bd-462d-a91e-fca297213184
